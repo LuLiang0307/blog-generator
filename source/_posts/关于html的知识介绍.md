@@ -55,7 +55,7 @@ MDN本身有一个论坛，并在Mozilla IRC网络上有一个IRC频道#mdn。MD
 2016年10月3日发表的Brave网页浏览器将MDN作为其搜索引擎选项之一。
 
 ## 三、HTML 所有标签列表
-参看链接：[](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5/HTML5_element_list)
+参看链接：[HTML5元素列表](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5/HTML5_element_list)
 ### 根元素
 ![](https://i.loli.net/2018/10/18/5bc860231c798.jpg)
 
@@ -91,8 +91,8 @@ MDN本身有一个论坛，并在Mozilla IRC网络上有一个IRC频道#mdn。MD
 ![](https://i.loli.net/2018/10/18/5bc8626068354.jpg)
 
 另请参阅：
-[](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5)
-[](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element)，包括 HTML5 中不再有效的元素。
+[HTML5](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5)
+[HTML元素大全](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element)，包括 HTML5 中不再有效的元素。
 
 ## 四、什么是空标签
 **没有闭合的标签称为空标签，如：&lt;br/&gt;和&lt;img/&gt;等。一个空元素（empty element）可能是 HTML，SVG，或者 MathML 里的一个不可能存在子节点（例如内嵌的元素或者元素内的文本）的element。**
